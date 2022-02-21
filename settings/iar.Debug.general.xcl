@@ -1,0 +1,15 @@
+"D:\prog\arm\bin\armPROC.dll" 
+
+"D:\prog\arm\bin\armLMIFTDI.dll" 
+
+"D:\Dona\semester 7\Intro to Embedded\project\project code\Debug\Exe\iar.out" 
+
+--plugin="D:\prog\arm\bin\armbat.dll" 
+
+--device_macro="D:\prog\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="D:\prog\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+
